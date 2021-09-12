@@ -1,15 +1,15 @@
 #include<stdlib.h>
 #include<stdio.h>
 	
-	//Função principal do programa
+	//FunÃ§Ã£o principal do programa
 	int main (int argc, char const *argv[])
 	
-	//6° Programa- Conversão de Dólar($) em Real(R$)
+	//6Â° Programa- ConversÃ£o de DÃ³lar($) em Real(R$)
 {
-	//Declaração das Variáveis
-	//v:Valor do Dólar (R$5,25) ; x:qtd. de Dólares; 
+	//DeclaraÃ§Ã£o das VariÃ¡veis
 	float vd, qtd, Reais;
-	
+	//vd:Valor do DÃ³lar (R$5,25) ; qtd:Quantidade de DÃ³lares; 
+		
 	//Exibe na tela
 	printf("Conversao de Dolares em Reais: ");
 	
